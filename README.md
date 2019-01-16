@@ -11,6 +11,6 @@ Features include:
 
 3. the difficulty of a game is automatically adjusted based on the user's past performance.
 
-4. communicate with a robot which displays emotions and movement based on the user's action in the game
+4. communicate with a robot which displays emotions based on the user's action in the game
 
 5. flexible updating of content. All assets are loaded dynamically, teachers can update material anytime as they see fit.
